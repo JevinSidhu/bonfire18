@@ -589,7 +589,7 @@ header a:hover {
   .landing h1 {
     font-size: 40px;
     margin-bottom: 5px;
-
+    font-weight: bold;
   }
 
   .landing p {
